@@ -28,7 +28,7 @@ Ovaj repozitorij sadrži sljedeće materijale:
 
 ## Kako koristiti ovaj repozitorij
 
-- Svako predavanje bit će predstavljeno u posebnoj direktoriji.
+- Svako predavanje bit će predstavljeno u posebnom direktoriju.
 - Za vježbe i zadatke, pratite upute u pripadajućim datotekama.
 - Ovdje ćete moći pronaći i rješenja zadataka za vježbanje.
 
