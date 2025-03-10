@@ -1,4 +1,4 @@
-#  - Razvoj web aplikacija u Pythonu OL-OPYT_DEV_H-02-25
+# Razvoj web aplikacija u Pythonu OL-OPYT_DEV_H-02-25
 
 Dobrodošli u projekt "Razvoj web aplikacija u Pythonu"! Ovdje ćete pronaći sve materijale i resurse vezane uz obrazovni program za razvoj web aplikacija koristeći programski jezik Python.
 
