@@ -1,0 +1,11 @@
+a = input("Unesite prvi broj: ")
+b = input("Unesite drugi broj (ali ne nulu) : ")
+a = int(a)
+b = int(b)
+
+print(a, "+", b, "=", a + b)
+print(a, "-", b, "=", a - b)
+print(a, "*", b, "=", a * b)
+print(a, "/", b, "=", a / b)
+print(a, "**", b, "=", a**b)
+print(a, "%", b, "=", a % b)
