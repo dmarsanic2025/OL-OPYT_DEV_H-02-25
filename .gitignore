@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# MacOS stuff
+.DS_Store
+
+# VSCODE
+.vscode/*
