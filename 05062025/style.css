@@ -1,0 +1,21 @@
+p{
+    color: blue;
+    font-size: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: end;
+    text-decoration: underline;
+    float: right;
+}
+
+body{
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid black;
+    width: 1000px;
+    height: 500px;
+    display: grid;
+    position: absolute;
+    top: 50px;
+    bottom: 100px;
+
+}
